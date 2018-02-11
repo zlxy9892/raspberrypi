@@ -1,5 +1,5 @@
-#!/usr/bin/python
-#coding: utf8
+#!/usr/bin/env python
+#coding:utf-8
 
 import RPi.GPIO as GPIO
 import time
